@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+h2{
+    background-color: rgb(0, 17, 255);
+}
+.cima{
+    color: rgb(0, 0, 0);
+}
+.baixo{
+    color: rgb(0, 0, 0);
+}
+</style>
+<body>
+    <div class="cima">
+        <h2>Seu cachorro se coça muito?</h2>
+        <p>paragrafo 1</p>
+        <ul>
+            <li>Seu cachorro está com coceira no rabo? </li>
+            
+            <li>Saiba as causas e soluções para tal ato</li>
+
+            <li>Sabia que cachorros possuem DST?</li>
+        
+            </ul>
+           
+        </ul>
+    </div>
+    <div class=" baixo">
+        <h2>Cuide do rabo do seu doguinho</h2>
+        <p>Coceira anal pode ser fatal</p>
+        <img src="https://mega.ibxk.com.br/2021/05/07/07140507783177.jpg" width="350">
+
+         <img src="https://tudosobrecachorros.com.br/wp-content/uploads/cachorro-esfregando-bumbum.jpg" width="350">
+
+         <a href="https://www.petz.com.br/">
+        
+    </div>
+</body>
+</html>
